@@ -11,3 +11,8 @@
 $ ls
 List all directories and files
 ```
+
+- [ ] Eat
+- [ ] Sleep
+- [ ] Code
+- [ ] Repeat
